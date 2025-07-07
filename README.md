@@ -32,7 +32,7 @@ AVI-track2/
 ├── model/                  # Model implementation
 │   ├── vote_model
 |   |   └── M_model.py  
-│   └── baseline_model.sh      
+│   └── baseline_model.py      
 ├── dataset/                # Dataset processing
 │   └── baseline_dataset2_vote.py 
 ├── Features/               # downloaded features
